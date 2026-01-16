@@ -57,7 +57,7 @@ Gosto de projetos bem organizados, com lógica clara e integração eficiente en
 
 ## 📈 GitHub em atividade
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muriloap&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muriloap&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
 
 ---
 
